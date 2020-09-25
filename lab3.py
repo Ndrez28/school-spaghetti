@@ -6,4 +6,5 @@ def main():
     for key in range(keyLength): 
         print(key % 6,sep = " ") 
 
+
 main() 
