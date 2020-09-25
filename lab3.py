@@ -1,4 +1,4 @@
-#I am just practicing 
+#Still just practicing  
 def main(): 
     message = input(" What would you like to do? \n      (1) encrypt \n      (2) decrypt\n")
     key = input(" Enter the key: ") 
