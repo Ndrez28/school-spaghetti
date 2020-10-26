@@ -41,7 +41,7 @@ def main():
     ['    ##            '],
     ['     ##########   ']        
         ]
-    print(*banner_C , sep = '/n')
+    
     
     banner_N = [
     ['  ##      ##      '],
@@ -71,5 +71,7 @@ def main():
         ]
    
     banner_Q
+
+    print(*banner_C , sep = '/n')
 if __name__ == "__main__": 
     main()
